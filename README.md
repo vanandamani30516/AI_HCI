@@ -11,7 +11,7 @@ Ruby on Rails application to manage tasks.
 - As a user, I can mark a task as completed.
 - As a user, when I see all the tasks in the overview, if today's date is past the task's deadline, highlight it.
 
-![Todo list](public/img/todo-list.png)
+![Todo list](main/public/img/todo-list.png)
 ![Todo list create new task](public/img/todo-list-create.png)
 ![Todo list edit task](public/img/todo-list-edit.png)
 
